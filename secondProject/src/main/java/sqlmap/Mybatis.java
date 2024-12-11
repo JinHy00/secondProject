@@ -11,7 +11,6 @@ public class Mybatis {
 	private static SqlSessionFactory instance;
 	
 	private Mybatis() {
-		// TODO Auto-generated constructor stub
 	}
 	
 	public static SqlSessionFactory getInstance() {
